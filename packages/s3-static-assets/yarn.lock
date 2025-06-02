@@ -9,10 +9,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/klaw@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/klaw/-/klaw-3.0.1.tgz#29f90021c0234976aa4eb97efced9cb6db9fa8b3"
-  integrity sha512-acnF3n9mYOr1aFJKFyvfNX0am9EtPUsYPq22QUCGdJE+MVt6UyAN1jwo+PmOPqXD4K7ZS9MtxDEp/un0lxFccA==
+"@types/klaw@^3.0.7":
+  version "3.0.7"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/klaw/-/klaw-3.0.7.tgz#b1a2cf40d48bc5ded94441c11ff961b176ac0f8a"
+  integrity sha512-ooZ+dVfTfg8RIUzwCBnHR6NirCB0amo1MNneUbL+Votca1H/eaMwkB31uDU9O6yKWNY5ngdYP3ywduOxm4KtMg==
   dependencies:
     "@types/node" "*"
 
