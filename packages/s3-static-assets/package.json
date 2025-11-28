@@ -35,13 +35,13 @@
     "aws-sdk": "^2.702.0",
     "fs-extra": "^9.0.1",
     "klaw": "^3.0.0",
-    "mime-types": "^2.1.27",
+    "mime-types": "^2.1.35",
     "regex-parser": "^2.2.10"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.1",
     "@types/klaw": "^3.0.1",
-    "@types/mime-types": "^2.1.0",
+    "@types/mime-types": "^2.1.4",
     "typescript": "^3.9.5"
   }
 }
