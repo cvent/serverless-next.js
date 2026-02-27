@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/danielcondemarin/serverless-next.js#readme",
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.50"
+    "@types/aws-lambda": "^8.10.161"
   }
 }
