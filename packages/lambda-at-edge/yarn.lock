@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.57.tgz#39ca3bbe52c5b4e27dc83c2a3b5ed434834568b9"
   integrity sha512-LMOA9bJLerYoe2KvzHugfaLTa0jUPWrqwxq5VUZ/ZuAMKLJm6oNdCio38vw8jWEIAkPR3P6mBIwnU1DPgelAKg==
 
-"@types/execa@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@types/execa/-/execa-2.0.0.tgz#4dd5523520c51834bf8d0c280f460814e5238281"
-  integrity sha512-aBnkJ0r3khaZkHzu9pDZeWXrDg1N/ZtDGRQkK+KIqNVvvTvW+URXMUHQQCQMYdb2GPrcwu9Fq6l9iiT+pirIbg==
+"@types/execa@^2.0.2":
+  version "2.0.2"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/execa/-/execa-2.0.2.tgz#1b1363b92982e152a9fa4ca1cff5fc4a368b61c5"
+  integrity sha512-8QSXFMO4F5rq03O94b/xRPBfseKGJYaBRv4zT/VE/OUU0PAuc21j4Ewvq7S18TT8GUoxGa+Y7sOtecCK9n0gkA==
   dependencies:
     execa "*"
 
